@@ -32,7 +32,7 @@ Instructions
   </br>
   GOOGLE_SECRET=
   </br>
-  GOOGLE_REDIRECT=http://<domain>:<port>/login/google/callback
+  GOOGLE_REDIRECT=http://domain.com/login/google/callback
 </br></br>
 * commands
 

@@ -19,7 +19,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 # Coding-Blog-Test.
 
-# Instructions
+Instructions
 
 Set .env first database user, password and so on...
 

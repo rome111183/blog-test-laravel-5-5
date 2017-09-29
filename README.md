@@ -24,17 +24,17 @@ Instructions
 * Set .env first database user, password and so on...
 </br></br>
 * GOOGLE sign in feature
-create google api credentials for oAuth Authentication
+  create google api credentials for oAuth Authentication
 
-https://console.developers.google.com/apis/credentials
+  https://console.developers.google.com/apis/credentials
 
-GOOGLE_ID=
-</br>
-GOOGLE_SECRET=
-</br>
-GOOGLE_REDIRECT=http://<domain>:<port>/login/google/callback
+  GOOGLE_ID=
+  </br>
+  GOOGLE_SECRET=
+  </br>
+  GOOGLE_REDIRECT=http://<domain>:<port>/login/google/callback
 </br></br>
-*commands
+* commands
 
 -composer install
 

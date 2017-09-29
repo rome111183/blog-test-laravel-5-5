@@ -29,7 +29,9 @@ create google api credentials for oAuth Authentication
 https://console.developers.google.com/apis/credentials
 
 GOOGLE_ID=
+</br>
 GOOGLE_SECRET=
+</br>
 GOOGLE_REDIRECT=http://<domain>:<port>/login/google/callback
 
 

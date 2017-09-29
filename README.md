@@ -21,9 +21,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 Instructions
 </br></br>
-1. Set .env first database user, password and so on...
+* Set .env first database user, password and so on...
 </br></br>
-2. GOOGLE sign in feature
+* GOOGLE sign in feature
 create google api credentials for oAuth Authentication
 
 https://console.developers.google.com/apis/credentials
@@ -34,8 +34,7 @@ GOOGLE_SECRET=
 </br>
 GOOGLE_REDIRECT=http://<domain>:<port>/login/google/callback
 </br></br>
-3.
-commands
+*commands
 
 -composer install
 
